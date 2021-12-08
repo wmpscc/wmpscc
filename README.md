@@ -1,7 +1,5 @@
-### Hi there 👋 Call me Harvey, please~
+### Hi there 👋
 I am a first-year postgraduate.
-- 🌱 I’m currently learning deep learning.
-- 💬 I'm studying the generation model.
 
 📫 **Contact me by**:
 - [Homepage](http://ishero.net/)
